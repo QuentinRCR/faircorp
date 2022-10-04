@@ -2,7 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="faircorp.faircorp.main" target="17" />
       <module name="faircorp.faircorp.main~1" target="17" />
+      <module name="faircorp.faircorp.test" target="17" />
       <module name="faircorp.faircorp.test~1" target="17" />
     </bytecodeTargetLevel>
   </component>
